@@ -6,4 +6,4 @@ var app = new Vue({
       mensaje: 'Hello Vue!'
     }
   });
-} 
+}

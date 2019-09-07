@@ -1,0 +1,4 @@
+--curso de vuejs y laravel
+instalacion y configuracion de vuejs
+mensajes y directiva text
+ditectiva model
